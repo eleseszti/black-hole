@@ -1,6 +1,6 @@
 # Black Hole
 
-Black Hole is a simple game created with Java.
+Black Hole is a simple game created in Java.
 
 ## Description
 
